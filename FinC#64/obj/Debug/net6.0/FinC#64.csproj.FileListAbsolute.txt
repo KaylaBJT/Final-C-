@@ -1,0 +1,15 @@
+D:\GB\3. Знак-во с прогр. C#\Final C#\FinC#64\bin\Debug\net6.0\FinC#64.exe
+D:\GB\3. Знак-во с прогр. C#\Final C#\FinC#64\bin\Debug\net6.0\FinC#64.deps.json
+D:\GB\3. Знак-во с прогр. C#\Final C#\FinC#64\bin\Debug\net6.0\FinC#64.runtimeconfig.json
+D:\GB\3. Знак-во с прогр. C#\Final C#\FinC#64\bin\Debug\net6.0\FinC#64.dll
+D:\GB\3. Знак-во с прогр. C#\Final C#\FinC#64\bin\Debug\net6.0\FinC#64.pdb
+D:\GB\3. Знак-во с прогр. C#\Final C#\FinC#64\obj\Debug\net6.0\FinC#64.csproj.AssemblyReference.cache
+D:\GB\3. Знак-во с прогр. C#\Final C#\FinC#64\obj\Debug\net6.0\FinC#64.GeneratedMSBuildEditorConfig.editorconfig
+D:\GB\3. Знак-во с прогр. C#\Final C#\FinC#64\obj\Debug\net6.0\FinC#64.AssemblyInfoInputs.cache
+D:\GB\3. Знак-во с прогр. C#\Final C#\FinC#64\obj\Debug\net6.0\FinC#64.AssemblyInfo.cs
+D:\GB\3. Знак-во с прогр. C#\Final C#\FinC#64\obj\Debug\net6.0\FinC#64.csproj.CoreCompileInputs.cache
+D:\GB\3. Знак-во с прогр. C#\Final C#\FinC#64\obj\Debug\net6.0\FinC#64.dll
+D:\GB\3. Знак-во с прогр. C#\Final C#\FinC#64\obj\Debug\net6.0\refint\FinC#64.dll
+D:\GB\3. Знак-во с прогр. C#\Final C#\FinC#64\obj\Debug\net6.0\FinC#64.pdb
+D:\GB\3. Знак-во с прогр. C#\Final C#\FinC#64\obj\Debug\net6.0\FinC#64.genruntimeconfig.cache
+D:\GB\3. Знак-во с прогр. C#\Final C#\FinC#64\obj\Debug\net6.0\ref\FinC#64.dll
